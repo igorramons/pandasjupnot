@@ -1,8 +1,13 @@
-1IAL002 - Algoritmos e Lógica de Programação
+1IAL002 - Algoritmos e LÃ³gica de ProgramaÃ§Ã£o
 
-1º Semestre - Turma B
+1Âº Semestre - Turma B
 
 Caroline Ribeiro Mira
 Igor Ramon da Silva
 
 FATEC SJC Prof. Jessen Vidal
+
+-------------------------------------------------------------------------------
+
+Para anÃ¡lise dos dados foi preciso formartar o arquivo fonte, pois textos com caractÃ©res especiais estavam errados.
+
