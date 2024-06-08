@@ -10,3 +10,6 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## gravando alterações
 
 ## Salvando modificações
+
+* git pull
+  
